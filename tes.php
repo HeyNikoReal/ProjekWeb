@@ -1,3 +1,3 @@
 <?php
 
-echo "Halo Semuanya";
+echo "Halo Pagi Semuanya";
